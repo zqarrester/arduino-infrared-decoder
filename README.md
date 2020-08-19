@@ -1,1 +1,1 @@
-# arduino-infrared-encoder
+# arduino-infrared-decoder
